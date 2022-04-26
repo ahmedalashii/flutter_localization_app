@@ -1,0 +1,9 @@
+{
+  "app_name": "Localization App",
+  "login": "Login",
+  "email": "Email Address",
+  "password": "Password",
+  "welcome_back": "Welcome Back...",
+  "login_hint": "Enter Email and Password",
+  "login_button": "Login"
+}
